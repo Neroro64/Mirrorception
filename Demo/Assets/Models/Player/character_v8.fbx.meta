@@ -1,0 +1,1687 @@
+fileFormatVersion: 2
+guid: 164e9e476729529409dd6199527d54b0
+timeCreated: 1499110728
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Ahoge1
+    100002: Ahoge2
+    100004: Ahoge3
+    100006: Ahoge4
+    100008: Ahoge5
+    100010: Ahoge6
+    100012: Ahoge7
+    100014: Ahoge8
+    100016: Ahoge8_end
+    100018: Arm.L
+    100020: Arm.R
+    100022: Arm_IK.L
+    100024: Arm_IK.L_end
+    100026: Arm_IK.R
+    100028: Arm_IK.R_end
+    100030: Armature
+    100032: ArmPoleTarget.L
+    100034: ArmPoleTarget.L_end
+    100036: ArmPoleTarget.R
+    100038: ArmPoleTarget.R_end
+    100040: CenterBone
+    100042: //RootNode
+    100044: Chest
+    100046: EyeBone.L
+    100048: EyeBone.L_end
+    100050: EyeBone.R
+    100052: EyeBone.R_end
+    100054: EyeControl
+    100056: Foot.L
+    100058: Foot.L_end
+    100060: Foot.R
+    100062: Foot.R_end
+    100064: Foot_Control.L
+    100066: Foot_Control.R
+    100068: Hand.L
+    100070: Hand.L_end
+    100072: Hand.R
+    100074: Hand.R_end
+    100076: Hand_Control.L
+    100078: Hand_Control.R
+    100080: Head
+    100082: Leg.L
+    100084: Leg.R
+    100086: Leg_IK.L
+    100088: Leg_IK.L_end
+    100090: Leg_IK.R
+    100092: Leg_IK.R_end
+    100094: LegPoleTarget.L
+    100096: LegPoleTarget.L_end
+    100098: LegPoleTarget.R
+    100100: LegPoleTarget.R_end
+    100102: Neck
+    100104: Plane
+    100106: Plane_MeshPart0
+    100108: Plane_MeshPart1
+    100110: Torso
+    100112: UpperArm.L
+    100114: UpperArm.R
+    100116: UpperLeg.L
+    100118: UpperLeg.R
+    400000: Ahoge1
+    400002: Ahoge2
+    400004: Ahoge3
+    400006: Ahoge4
+    400008: Ahoge5
+    400010: Ahoge6
+    400012: Ahoge7
+    400014: Ahoge8
+    400016: Ahoge8_end
+    400018: Arm.L
+    400020: Arm.R
+    400022: Arm_IK.L
+    400024: Arm_IK.L_end
+    400026: Arm_IK.R
+    400028: Arm_IK.R_end
+    400030: Armature
+    400032: ArmPoleTarget.L
+    400034: ArmPoleTarget.L_end
+    400036: ArmPoleTarget.R
+    400038: ArmPoleTarget.R_end
+    400040: CenterBone
+    400042: //RootNode
+    400044: Chest
+    400046: EyeBone.L
+    400048: EyeBone.L_end
+    400050: EyeBone.R
+    400052: EyeBone.R_end
+    400054: EyeControl
+    400056: Foot.L
+    400058: Foot.L_end
+    400060: Foot.R
+    400062: Foot.R_end
+    400064: Foot_Control.L
+    400066: Foot_Control.R
+    400068: Hand.L
+    400070: Hand.L_end
+    400072: Hand.R
+    400074: Hand.R_end
+    400076: Hand_Control.L
+    400078: Hand_Control.R
+    400080: Head
+    400082: Leg.L
+    400084: Leg.R
+    400086: Leg_IK.L
+    400088: Leg_IK.L_end
+    400090: Leg_IK.R
+    400092: Leg_IK.R_end
+    400094: LegPoleTarget.L
+    400096: LegPoleTarget.L_end
+    400098: LegPoleTarget.R
+    400100: LegPoleTarget.R_end
+    400102: Neck
+    400104: Plane
+    400106: Plane_MeshPart0
+    400108: Plane_MeshPart1
+    400110: Torso
+    400112: UpperArm.L
+    400114: UpperArm.R
+    400116: UpperLeg.L
+    400118: UpperLeg.R
+    4300000: Plane_MeshPart0
+    4300002: Plane_MeshPart1
+    7400000: Walk.R
+    7400002: Armature|Climb
+    7400004: Armature|Climb_Done
+    7400006: Armature|Climbing
+    7400008: Armature|Climd_start
+    7400010: Armature|Drag
+    7400012: Armature|Draging
+    7400014: Armature|Enter_mirror
+    7400016: Armature|Idle
+    7400018: Armature|Touching_mirror
+    7400020: Armature|Walk
+    9500000: //RootNode
+    13700000: Plane_MeshPart0
+    13700002: Plane_MeshPart1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|Climb
+      takeName: Armature|Climb
+      firstFrame: 0
+      lastFrame: 22
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/CenterBone
+        weight: 1
+      - path: Armature/CenterBone/EyeControl
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.L
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.L/EyeBone.L_end
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.R
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.R/EyeBone.R_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/Leg_IK.L
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/Leg_IK.L/Leg_IK.L_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/LegPoleTarget.L
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/LegPoleTarget.L/LegPoleTarget.L_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/Leg_IK.R
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/Leg_IK.R/Leg_IK.R_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/LegPoleTarget.R
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/LegPoleTarget.R/LegPoleTarget.R_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/Arm_IK.L
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/Arm_IK.L/Arm_IK.L_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/ArmPoleTarget.L
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/ArmPoleTarget.L/ArmPoleTarget.L_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/Arm_IK.R
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/Arm_IK.R/Arm_IK.R_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/ArmPoleTarget.R
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/ArmPoleTarget.R/ArmPoleTarget.R_end
+        weight: 1
+      - path: Armature/CenterBone/Torso
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6/Ahoge7
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6/Ahoge7/Ahoge8
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6/Ahoge7/Ahoge8/Ahoge8_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L/Arm.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L/Arm.L/Hand.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L/Arm.L/Hand.L/Hand.L_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R/Arm.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R/Arm.R/Hand.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R/Arm.R/Hand.R/Hand.R_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L/Leg.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L/Leg.L/Foot.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L/Leg.L/Foot.L/Foot.L_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R/Leg.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R/Leg.R/Foot.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R/Leg.R/Foot.R/Foot.R_end
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane/Plane_MeshPart0
+        weight: 1
+      - path: Plane/Plane_MeshPart1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Climb_Done
+      takeName: Armature|Climb_Done
+      firstFrame: 0
+      lastFrame: 56
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/CenterBone
+        weight: 1
+      - path: Armature/CenterBone/EyeControl
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.L
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.L/EyeBone.L_end
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.R
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.R/EyeBone.R_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/Leg_IK.L
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/Leg_IK.L/Leg_IK.L_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/LegPoleTarget.L
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/LegPoleTarget.L/LegPoleTarget.L_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/Leg_IK.R
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/Leg_IK.R/Leg_IK.R_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/LegPoleTarget.R
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/LegPoleTarget.R/LegPoleTarget.R_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/Arm_IK.L
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/Arm_IK.L/Arm_IK.L_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/ArmPoleTarget.L
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/ArmPoleTarget.L/ArmPoleTarget.L_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/Arm_IK.R
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/Arm_IK.R/Arm_IK.R_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/ArmPoleTarget.R
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/ArmPoleTarget.R/ArmPoleTarget.R_end
+        weight: 1
+      - path: Armature/CenterBone/Torso
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6/Ahoge7
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6/Ahoge7/Ahoge8
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6/Ahoge7/Ahoge8/Ahoge8_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L/Arm.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L/Arm.L/Hand.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L/Arm.L/Hand.L/Hand.L_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R/Arm.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R/Arm.R/Hand.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R/Arm.R/Hand.R/Hand.R_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L/Leg.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L/Leg.L/Foot.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L/Leg.L/Foot.L/Foot.L_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R/Leg.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R/Leg.R/Foot.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R/Leg.R/Foot.R/Foot.R_end
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane/Plane_MeshPart0
+        weight: 1
+      - path: Plane/Plane_MeshPart1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Climbing
+      takeName: Armature|Climbing
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/CenterBone
+        weight: 1
+      - path: Armature/CenterBone/EyeControl
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.L
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.L/EyeBone.L_end
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.R
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.R/EyeBone.R_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/Leg_IK.L
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/Leg_IK.L/Leg_IK.L_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/LegPoleTarget.L
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/LegPoleTarget.L/LegPoleTarget.L_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/Leg_IK.R
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/Leg_IK.R/Leg_IK.R_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/LegPoleTarget.R
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/LegPoleTarget.R/LegPoleTarget.R_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/Arm_IK.L
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/Arm_IK.L/Arm_IK.L_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/ArmPoleTarget.L
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/ArmPoleTarget.L/ArmPoleTarget.L_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/Arm_IK.R
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/Arm_IK.R/Arm_IK.R_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/ArmPoleTarget.R
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/ArmPoleTarget.R/ArmPoleTarget.R_end
+        weight: 1
+      - path: Armature/CenterBone/Torso
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6/Ahoge7
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6/Ahoge7/Ahoge8
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6/Ahoge7/Ahoge8/Ahoge8_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L/Arm.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L/Arm.L/Hand.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L/Arm.L/Hand.L/Hand.L_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R/Arm.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R/Arm.R/Hand.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R/Arm.R/Hand.R/Hand.R_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L/Leg.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L/Leg.L/Foot.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L/Leg.L/Foot.L/Foot.L_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R/Leg.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R/Leg.R/Foot.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R/Leg.R/Foot.R/Foot.R_end
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane/Plane_MeshPart0
+        weight: 1
+      - path: Plane/Plane_MeshPart1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Climd_start
+      takeName: Armature|Climd_start
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/CenterBone
+        weight: 1
+      - path: Armature/CenterBone/EyeControl
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.L
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.L/EyeBone.L_end
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.R
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.R/EyeBone.R_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/Leg_IK.L
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/Leg_IK.L/Leg_IK.L_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/LegPoleTarget.L
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/LegPoleTarget.L/LegPoleTarget.L_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/Leg_IK.R
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/Leg_IK.R/Leg_IK.R_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/LegPoleTarget.R
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/LegPoleTarget.R/LegPoleTarget.R_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/Arm_IK.L
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/Arm_IK.L/Arm_IK.L_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/ArmPoleTarget.L
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/ArmPoleTarget.L/ArmPoleTarget.L_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/Arm_IK.R
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/Arm_IK.R/Arm_IK.R_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/ArmPoleTarget.R
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/ArmPoleTarget.R/ArmPoleTarget.R_end
+        weight: 1
+      - path: Armature/CenterBone/Torso
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6/Ahoge7
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6/Ahoge7/Ahoge8
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6/Ahoge7/Ahoge8/Ahoge8_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L/Arm.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L/Arm.L/Hand.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L/Arm.L/Hand.L/Hand.L_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R/Arm.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R/Arm.R/Hand.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R/Arm.R/Hand.R/Hand.R_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L/Leg.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L/Leg.L/Foot.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L/Leg.L/Foot.L/Foot.L_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R/Leg.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R/Leg.R/Foot.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R/Leg.R/Foot.R/Foot.R_end
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane/Plane_MeshPart0
+        weight: 1
+      - path: Plane/Plane_MeshPart1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Drag
+      takeName: Armature|Drag
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/CenterBone
+        weight: 1
+      - path: Armature/CenterBone/EyeControl
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.L
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.L/EyeBone.L_end
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.R
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.R/EyeBone.R_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/Leg_IK.L
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/Leg_IK.L/Leg_IK.L_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/LegPoleTarget.L
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/LegPoleTarget.L/LegPoleTarget.L_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/Leg_IK.R
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/Leg_IK.R/Leg_IK.R_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/LegPoleTarget.R
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/LegPoleTarget.R/LegPoleTarget.R_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/Arm_IK.L
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/Arm_IK.L/Arm_IK.L_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/ArmPoleTarget.L
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/ArmPoleTarget.L/ArmPoleTarget.L_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/Arm_IK.R
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/Arm_IK.R/Arm_IK.R_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/ArmPoleTarget.R
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/ArmPoleTarget.R/ArmPoleTarget.R_end
+        weight: 1
+      - path: Armature/CenterBone/Torso
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6/Ahoge7
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6/Ahoge7/Ahoge8
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6/Ahoge7/Ahoge8/Ahoge8_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L/Arm.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L/Arm.L/Hand.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L/Arm.L/Hand.L/Hand.L_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R/Arm.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R/Arm.R/Hand.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R/Arm.R/Hand.R/Hand.R_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L/Leg.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L/Leg.L/Foot.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L/Leg.L/Foot.L/Foot.L_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R/Leg.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R/Leg.R/Foot.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R/Leg.R/Foot.R/Foot.R_end
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane/Plane_MeshPart0
+        weight: 1
+      - path: Plane/Plane_MeshPart1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Draging
+      takeName: Armature|Draging
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/CenterBone
+        weight: 1
+      - path: Armature/CenterBone/EyeControl
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.L
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.L/EyeBone.L_end
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.R
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.R/EyeBone.R_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/Leg_IK.L
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/Leg_IK.L/Leg_IK.L_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/LegPoleTarget.L
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/LegPoleTarget.L/LegPoleTarget.L_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/Leg_IK.R
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/Leg_IK.R/Leg_IK.R_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/LegPoleTarget.R
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/LegPoleTarget.R/LegPoleTarget.R_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/Arm_IK.L
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/Arm_IK.L/Arm_IK.L_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/ArmPoleTarget.L
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/ArmPoleTarget.L/ArmPoleTarget.L_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/Arm_IK.R
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/Arm_IK.R/Arm_IK.R_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/ArmPoleTarget.R
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/ArmPoleTarget.R/ArmPoleTarget.R_end
+        weight: 1
+      - path: Armature/CenterBone/Torso
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6/Ahoge7
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6/Ahoge7/Ahoge8
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6/Ahoge7/Ahoge8/Ahoge8_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L/Arm.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L/Arm.L/Hand.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L/Arm.L/Hand.L/Hand.L_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R/Arm.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R/Arm.R/Hand.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R/Arm.R/Hand.R/Hand.R_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L/Leg.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L/Leg.L/Foot.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L/Leg.L/Foot.L/Foot.L_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R/Leg.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R/Leg.R/Foot.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R/Leg.R/Foot.R/Foot.R_end
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane/Plane_MeshPart0
+        weight: 1
+      - path: Plane/Plane_MeshPart1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Enter_mirror
+      takeName: Armature|Enter_mirror
+      firstFrame: 0
+      lastFrame: 33
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/CenterBone
+        weight: 1
+      - path: Armature/CenterBone/EyeControl
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.L
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.L/EyeBone.L_end
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.R
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.R/EyeBone.R_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/Leg_IK.L
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/Leg_IK.L/Leg_IK.L_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/LegPoleTarget.L
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/LegPoleTarget.L/LegPoleTarget.L_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/Leg_IK.R
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/Leg_IK.R/Leg_IK.R_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/LegPoleTarget.R
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/LegPoleTarget.R/LegPoleTarget.R_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/Arm_IK.L
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/Arm_IK.L/Arm_IK.L_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/ArmPoleTarget.L
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/ArmPoleTarget.L/ArmPoleTarget.L_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/Arm_IK.R
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/Arm_IK.R/Arm_IK.R_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/ArmPoleTarget.R
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/ArmPoleTarget.R/ArmPoleTarget.R_end
+        weight: 1
+      - path: Armature/CenterBone/Torso
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6/Ahoge7
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6/Ahoge7/Ahoge8
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6/Ahoge7/Ahoge8/Ahoge8_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L/Arm.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L/Arm.L/Hand.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L/Arm.L/Hand.L/Hand.L_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R/Arm.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R/Arm.R/Hand.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R/Arm.R/Hand.R/Hand.R_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L/Leg.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L/Leg.L/Foot.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L/Leg.L/Foot.L/Foot.L_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R/Leg.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R/Leg.R/Foot.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R/Leg.R/Foot.R/Foot.R_end
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane/Plane_MeshPart0
+        weight: 1
+      - path: Plane/Plane_MeshPart1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Idle
+      takeName: Armature|Idle
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/CenterBone
+        weight: 1
+      - path: Armature/CenterBone/EyeControl
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.L
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.L/EyeBone.L_end
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.R
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.R/EyeBone.R_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/Leg_IK.L
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/Leg_IK.L/Leg_IK.L_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/LegPoleTarget.L
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/LegPoleTarget.L/LegPoleTarget.L_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/Leg_IK.R
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/Leg_IK.R/Leg_IK.R_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/LegPoleTarget.R
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/LegPoleTarget.R/LegPoleTarget.R_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/Arm_IK.L
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/Arm_IK.L/Arm_IK.L_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/ArmPoleTarget.L
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/ArmPoleTarget.L/ArmPoleTarget.L_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/Arm_IK.R
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/Arm_IK.R/Arm_IK.R_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/ArmPoleTarget.R
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/ArmPoleTarget.R/ArmPoleTarget.R_end
+        weight: 1
+      - path: Armature/CenterBone/Torso
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6/Ahoge7
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6/Ahoge7/Ahoge8
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6/Ahoge7/Ahoge8/Ahoge8_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L/Arm.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L/Arm.L/Hand.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L/Arm.L/Hand.L/Hand.L_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R/Arm.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R/Arm.R/Hand.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R/Arm.R/Hand.R/Hand.R_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L/Leg.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L/Leg.L/Foot.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L/Leg.L/Foot.L/Foot.L_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R/Leg.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R/Leg.R/Foot.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R/Leg.R/Foot.R/Foot.R_end
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane/Plane_MeshPart0
+        weight: 1
+      - path: Plane/Plane_MeshPart1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Touching_mirror
+      takeName: Armature|Touching_mirror
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/CenterBone
+        weight: 1
+      - path: Armature/CenterBone/EyeControl
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.L
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.L/EyeBone.L_end
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.R
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.R/EyeBone.R_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/Leg_IK.L
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/Leg_IK.L/Leg_IK.L_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/LegPoleTarget.L
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/LegPoleTarget.L/LegPoleTarget.L_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/Leg_IK.R
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/Leg_IK.R/Leg_IK.R_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/LegPoleTarget.R
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/LegPoleTarget.R/LegPoleTarget.R_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/Arm_IK.L
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/Arm_IK.L/Arm_IK.L_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/ArmPoleTarget.L
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/ArmPoleTarget.L/ArmPoleTarget.L_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/Arm_IK.R
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/Arm_IK.R/Arm_IK.R_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/ArmPoleTarget.R
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/ArmPoleTarget.R/ArmPoleTarget.R_end
+        weight: 1
+      - path: Armature/CenterBone/Torso
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6/Ahoge7
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6/Ahoge7/Ahoge8
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6/Ahoge7/Ahoge8/Ahoge8_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L/Arm.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L/Arm.L/Hand.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L/Arm.L/Hand.L/Hand.L_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R/Arm.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R/Arm.R/Hand.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R/Arm.R/Hand.R/Hand.R_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L/Leg.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L/Leg.L/Foot.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L/Leg.L/Foot.L/Foot.L_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R/Leg.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R/Leg.R/Foot.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R/Leg.R/Foot.R/Foot.R_end
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane/Plane_MeshPart0
+        weight: 1
+      - path: Plane/Plane_MeshPart1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Walk
+      takeName: Armature|Walk
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/CenterBone
+        weight: 1
+      - path: Armature/CenterBone/EyeControl
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.L
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.L/EyeBone.L_end
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.R
+        weight: 1
+      - path: Armature/CenterBone/EyeControl/EyeBone.R/EyeBone.R_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/Leg_IK.L
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/Leg_IK.L/Leg_IK.L_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/LegPoleTarget.L
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.L/LegPoleTarget.L/LegPoleTarget.L_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/Leg_IK.R
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/Leg_IK.R/Leg_IK.R_end
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/LegPoleTarget.R
+        weight: 1
+      - path: Armature/CenterBone/Foot_Control.R/LegPoleTarget.R/LegPoleTarget.R_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/Arm_IK.L
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/Arm_IK.L/Arm_IK.L_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/ArmPoleTarget.L
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.L/ArmPoleTarget.L/ArmPoleTarget.L_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/Arm_IK.R
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/Arm_IK.R/Arm_IK.R_end
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/ArmPoleTarget.R
+        weight: 1
+      - path: Armature/CenterBone/Hand_Control.R/ArmPoleTarget.R/ArmPoleTarget.R_end
+        weight: 1
+      - path: Armature/CenterBone/Torso
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6/Ahoge7
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6/Ahoge7/Ahoge8
+        weight: 1
+      - path: Armature/CenterBone/Torso/Chest/Neck/Head/Ahoge1/Ahoge2/Ahoge3/Ahoge4/Ahoge5/Ahoge6/Ahoge7/Ahoge8/Ahoge8_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L/Arm.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L/Arm.L/Hand.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.L/Arm.L/Hand.L/Hand.L_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R/Arm.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R/Arm.R/Hand.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperArm.R/Arm.R/Hand.R/Hand.R_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L/Leg.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L/Leg.L/Foot.L
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.L/Leg.L/Foot.L/Foot.L_end
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R/Leg.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R/Leg.R/Foot.R
+        weight: 1
+      - path: Armature/CenterBone/Torso/UpperLeg.R/Leg.R/Foot.R/Foot.R_end
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane/Plane_MeshPart0
+        weight: 1
+      - path: Plane/Plane_MeshPart1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
